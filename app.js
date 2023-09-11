@@ -37,10 +37,10 @@ const O = document.getElementById("O");
 
 
 A.addEventListener("click", function(){
-  location = "/Comfirm Availability/Comfirm _Availability.html";
+  location = "./Comfirm Availability/Comfirm _Availability.html";
 });
 B.addEventListener("click", function(){
-  location = "/Comfirm Availability/Comfirm _Availability.html";
+  location = "./Comfirm Availability/Comfirm _Availability.html";
 });
 C.addEventListener("click", function(){
   location = "/Comfirm Availability/Comfirm _Availability.html";
